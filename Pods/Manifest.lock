@@ -1,0 +1,20 @@
+PODS:
+  - JGProgressHUD (2.0.3)
+  - Kingfisher (4.8.1)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - Kingfisher
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JGProgressHUD
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+
+PODFILE CHECKSUM: 1a0f6be3dbc9308dbf2ed0f3181d988e2be8a37e
+
+COCOAPODS: 1.5.3
